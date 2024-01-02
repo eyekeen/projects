@@ -2,6 +2,5 @@
 - [Городской портал](https://github.com/eyekeen/city-portal)
 - [PHPGram](https://github.com/eyekeen/simple-instagram)
 - [php-mvc-framework](https://github.com/eyekeen/php-framework)
-- [cloud_storage_api](#)
-- [media_store](#)
-- and other experience
+- [Сервис для хранения и упраления файлами](https://github.com/eyekeen/cloud-storage-api)
+- [pedagogchr.ru](http://pedagogchr.ru/)
